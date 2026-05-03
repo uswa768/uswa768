@@ -1,5 +1,6 @@
 # About Me:
-I’m currently working as a Frontend Developer Intern  <br>I’m looking to collaborate on web development projects  <br>I’m looking for help with modern frameworks like React  <br>I’m currently learning advanced JavaScript and responsive design  <br>Ask me about HTML, CSS, JS and frontend basics  <br>I enjoy designing clean and user-friendly interfaces
+BSCS (8th semester) student working as a Frontend Developer Intern.
+Focused on improving skills and building responsive web designs.
 
 
 ## 🌐 Socials:
